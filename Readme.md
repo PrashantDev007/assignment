@@ -1,17 +1,18 @@
-# get_update_details_microservice
-This service is running on port 8090
+# login_signup_microservice
+This service is running on port 8080
 
-Below are the screenshots for "get_update_details_microservice" mocroervice
+Below are the screenshots for "login_signup_microservice" mocroervice
 1. Login
 ![Alt text](https://github.com/PrashantDev007/assignment/blob/master/Screenshots/login.png?raw=true "login")
 
 2. Save Employee
 ![Alt text](https://github.com/PrashantDev007/assignment/blob/master/Screenshots/saveEmployee.png?raw=true "saveEmployee")
 
-# login_signup_microservice
-This service is running on port 8080
 
-Below are the screenshots for "login_signup_microservice" mocroervice
+# get_update_details_microservice
+This service is running on port 8090
+
+Below are the screenshots for "get_update_details_microservice" mocroervice
 
 1. Get Employee Data
 ![Alt text](https://github.com/PrashantDev007/assignment/blob/master/Screenshots/getEmployeeData.png?raw=true "getEmployeeData")
